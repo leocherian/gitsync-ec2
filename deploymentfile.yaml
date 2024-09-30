@@ -3,4 +3,4 @@ parameters:
     ImageId: ami-0e54eba7c51c234f6
     InstanceType: t3.micro
 tags:
-    App: Sample-App
+    App: Sample-App 
