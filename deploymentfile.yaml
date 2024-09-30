@@ -1,6 +1,6 @@
 template-file-path: ./EC2.yaml
 parameters: 
     ImageId: ami-0e54eba7c51c234f6
-    InstanceType: t2.micro
+    InstanceType: t3.micro
 tags:
     App: Sample-App
